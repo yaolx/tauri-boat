@@ -6,8 +6,8 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "app",
-    "version": "0.0.0"
+    "productName": "tauri-boat",
+    "version": "0.0.1"
   },
   "tauri": {
     "allowlist": {
@@ -28,7 +28,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
+      "identifier": "com.yaolx.dev",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
