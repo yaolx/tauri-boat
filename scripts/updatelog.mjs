@@ -32,7 +32,6 @@ export default function updatelog(tag, type = 'updater') {
       _tag = null
     }
   })
-  console.log('###tagMap', tagMap)
   if (!tagMap?.[tag]) {
     console.log(`${type === 'release' ? '[UPDATE_LOG.md] ' : ''}Tag ${tag} does not exist`)
     process.exit(1)

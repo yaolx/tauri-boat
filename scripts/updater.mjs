@@ -22,13 +22,10 @@ async function updater() {
     per_page: 10,
     page: 1
   })
-  console.log('###tags', tags)
   // 过滤包含 `v` 版本信息的 tag
   const tag = tags.find((t) => t.name.startsWith('v'))
-  // console.log(`${JSON.stringify(tag, null, 2)}`);
 
   if (!tag) return
-  console.log('###tag', tag)
   // 获取此 tag 的详细信息
   const { data: latestRelease } = await github.rest.repos.getReleaseByTag({
     ...options,

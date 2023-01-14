@@ -1,9 +1,9 @@
 # Updater Log
 
-## v0.0.5
+## v0.0.6
 
-- feat: xxx
-- fix: xxx
+- feat: 测试
+- fix: 测试
 
 ## v0.0.4
 

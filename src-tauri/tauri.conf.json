@@ -8,7 +8,7 @@
   },
   "package": {
     "productName": "tauri-boat",
-    "version": "0.0.5"
+    "version": "0.0.6"
   },
   "tauri": {
     "allowlist": {
@@ -40,7 +40,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.yaolx.dev",
+      "identifier": "com.yaolx.build",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -72,7 +72,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "app",
+        "title": "tauri-boat",
         "width": 800
       }
     ]
