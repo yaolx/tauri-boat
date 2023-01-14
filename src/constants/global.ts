@@ -55,7 +55,7 @@ export const categories = [
 
 export const MENUS: Menu[] = [
   {
-    title: '组件demo',
+    title: '组件test',
     id: 'msg',
     icon: 'component'
   },
