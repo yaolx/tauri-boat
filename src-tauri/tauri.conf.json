@@ -3,6 +3,7 @@
     "beforeDevCommand": "yarn dev",
     "beforeBuildCommand": "yarn build",
     "devPath": "http://localhost:1420",
+    "withGlobalTauri": true,
     "distDir": "../dist"
   },
   "package": {
@@ -11,7 +12,18 @@
   },
   "tauri": {
     "allowlist": {
-      "all": true
+      "all": true,
+      "fs": {
+        "all": true,
+        "readFile": true,
+        "writeFile": true,
+        "readDir": true,
+        "copyFile": true,
+        "createDir": true,
+        "removeDir": true,
+        "removeFile": true,
+        "renameFile": true
+      }
     },
     "bundle": {
       "active": true,
@@ -50,7 +62,10 @@
       "csp": null
     },
     "updater": {
-      "active": false
+      "active": true,
+      "dialog": true,
+      "endpoints": ["https://yaolx.github.io/tauri-boat/install.json"],
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEFDNjAxQUE4MTk1RkUxOEIKUldTTDRWOFpxQnBnckxNQnNsS1YxTWE1Mm5tUmpPYjNCTURwcnVWdmtFZzBIS3pEVHA1ZTBVTVoK"
     },
     "windows": [
       {
@@ -63,3 +78,4 @@
     ]
   }
 }
+
