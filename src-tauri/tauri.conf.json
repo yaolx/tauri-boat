@@ -8,22 +8,11 @@
   },
   "package": {
     "productName": "tauri-boat",
-    "version": "0.0.6"
+    "version": "0.0.7"
   },
   "tauri": {
     "allowlist": {
-      "all": true,
-      "fs": {
-        "all": true,
-        "readFile": true,
-        "writeFile": true,
-        "readDir": true,
-        "copyFile": true,
-        "createDir": true,
-        "removeDir": true,
-        "removeFile": true,
-        "renameFile": true
-      }
+      "all": true
     },
     "bundle": {
       "active": true,
@@ -40,7 +29,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.yaolx.build",
+      "identifier": "tauri-boat",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
