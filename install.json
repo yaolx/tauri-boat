@@ -1,0 +1,35 @@
+{
+  "version": "v0.0.7",
+  "notes": "- feat: 0.0.7 发布\n- fix: 测试",
+  "pub_date": "2023-02-09T01:18:06.205Z",
+  "platforms": {
+    "win64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBnckJKLzUxeFg3ZUxac3RSQzhhdm92Mzl5aWJxSGFEbytOVXRhS0hDNVBZUWl3ZzB2QXFlV2p1SGx3Y1dpMU9iRkIzZVJDeWFMZWtpRk9XQzdtRVovOFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1MzI1CWZpbGU6dGF1cmktYm9hdF8wLjAuN194NjRfZW4tVVMubXNpLnppcApsYWlGZmd2Vkt3VHNLcmMwd25uT3l5UXR4ZHFXR3NPUzJvcTgxcEg4OURWU0xEMk1IK3poWGxwTHJWWmVRVDMzckZMV1FSdkZUN1JCM0VUMm1VM0lBdz09Cg==",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat_0.0.7_x64_en-US.msi.zip"
+    },
+    "linux": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBnckx0OXhibi96QkFEbjZ2UDQySWx1Q3lnYUYyUmhrRi9hU05PV2NTOERPTng0UURtT1J4VzdnUTE3ZW9TTm0zcE4wanhOTngxajlPRENMNDZtNEVTMHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1MTc2CWZpbGU6dGF1cmktYm9hdF8wLjAuN19hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKaW1qcTVSdWFTMTdWMWVnME0vR1JoMmRCVnN1d0czKzZkTUtuQjlaSUtKQnFQSjlKQ3g1UVFXdTlFZnpWaXBpUTA4RmpXOW5rd2xuekVnMDlEZjNrQ0E9PQo=",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat_0.0.7_amd64.AppImage.tar.gz"
+    },
+    "darwin": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBncktLbWhvQmF1R0c5dlFWOUQ4M3E5ZEFlQjBTQzJvalBlcjk0ODRFZVJMcURObHVKSytvVHN2REdiZXlCcmRJMjRFMXljaFh5cWtuT0ZWUy80emR2S1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1NDI3CWZpbGU6dGF1cmktYm9hdC5hcHAudGFyLmd6CjcrdjRYVXVEcklZL2NnaFNrejNCUENRN0JKMThQSThjb2crdGl6dWlJYzBNcTlNL05rTlVuSjVQamhIakVBeXVGcHNnMnVqcXZvb0prSG9pcTgvYUN3PT0K",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBncktLbWhvQmF1R0c5dlFWOUQ4M3E5ZEFlQjBTQzJvalBlcjk0ODRFZVJMcURObHVKSytvVHN2REdiZXlCcmRJMjRFMXljaFh5cWtuT0ZWUy80emR2S1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1NDI3CWZpbGU6dGF1cmktYm9hdC5hcHAudGFyLmd6CjcrdjRYVXVEcklZL2NnaFNrejNCUENRN0JKMThQSThjb2crdGl6dWlJYzBNcTlNL05rTlVuSjVQamhIakVBeXVGcHNnMnVqcXZvb0prSG9pcTgvYUN3PT0K",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBncktLbWhvQmF1R0c5dlFWOUQ4M3E5ZEFlQjBTQzJvalBlcjk0ODRFZVJMcURObHVKSytvVHN2REdiZXlCcmRJMjRFMXljaFh5cWtuT0ZWUy80emR2S1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1NDI3CWZpbGU6dGF1cmktYm9hdC5hcHAudGFyLmd6CjcrdjRYVXVEcklZL2NnaFNrejNCUENRN0JKMThQSThjb2crdGl6dWlJYzBNcTlNL05rTlVuSjVQamhIakVBeXVGcHNnMnVqcXZvb0prSG9pcTgvYUN3PT0K",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBnckx0OXhibi96QkFEbjZ2UDQySWx1Q3lnYUYyUmhrRi9hU05PV2NTOERPTng0UURtT1J4VzdnUTE3ZW9TTm0zcE4wanhOTngxajlPRENMNDZtNEVTMHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1MTc2CWZpbGU6dGF1cmktYm9hdF8wLjAuN19hbWQ2NC5BcHBJbWFnZS50YXIuZ3oKaW1qcTVSdWFTMTdWMWVnME0vR1JoMmRCVnN1d0czKzZkTUtuQjlaSUtKQnFQSjlKQ3g1UVFXdTlFZnpWaXBpUTA4RmpXOW5rd2xuekVnMDlEZjNrQ0E9PQo=",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat_0.0.7_amd64.AppImage.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTDRWOFpxQnBnckJKLzUxeFg3ZUxac3RSQzhhdm92Mzl5aWJxSGFEbytOVXRhS0hDNVBZUWl3ZzB2QXFlV2p1SGx3Y1dpMU9iRkIzZVJDeWFMZWtpRk9XQzdtRVovOFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjc1OTA1MzI1CWZpbGU6dGF1cmktYm9hdF8wLjAuN194NjRfZW4tVVMubXNpLnppcApsYWlGZmd2Vkt3VHNLcmMwd25uT3l5UXR4ZHFXR3NPUzJvcTgxcEg4OURWU0xEMk1IK3poWGxwTHJWWmVRVDMzckZMV1FSdkZUN1JCM0VUMm1VM0lBdz09Cg==",
+      "url": "https://github.com/yaolx/tauri-boat/releases/download/v0.0.7/tauri-boat_0.0.7_x64_en-US.msi.zip"
+    }
+  }
+}
